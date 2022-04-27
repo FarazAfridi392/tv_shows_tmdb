@@ -18,7 +18,7 @@ const String themoviedbApi = 'your_api_code_here';
 
 
 https://user-images.githubusercontent.com/65046687/165590228-34ad4099-0321-4a6b-acd3-7ea0707bb520.mp4
-![2](https://user-images.githubusercontent.com/65046687/165590559-24bfa27f-51d8-4d33-b6f1-27af33d40811.png)
+
 
 
 
